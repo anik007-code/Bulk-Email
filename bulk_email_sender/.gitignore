@@ -1,2 +1,4 @@
 venv/
 .idea/
+bulk_email_sender/email_sender/__pycache__/
+bulk_email_sender/bulk_email_sender/__pycache__/
